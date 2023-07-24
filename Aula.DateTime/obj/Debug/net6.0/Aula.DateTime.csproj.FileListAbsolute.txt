@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\bin\Debug\net6.0\Aula.DateTime.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\bin\Debug\net6.0\Aula.DateTime.deps.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\bin\Debug\net6.0\Aula.DateTime.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\bin\Debug\net6.0\Aula.DateTime.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\bin\Debug\net6.0\Aula.DateTime.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\refint\Aula.DateTime.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\Aula.DateTime.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Aula.DateTime\Aula.DateTime\obj\Debug\net6.0\ref\Aula.DateTime.dll
